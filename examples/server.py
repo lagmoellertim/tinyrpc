@@ -1,4 +1,3 @@
-import time
 import redis
 
 from tinyrpc import RPCServer
